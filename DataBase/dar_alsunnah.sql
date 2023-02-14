@@ -58,8 +58,7 @@ CREATE TABLE `contact` (
 -- Dumping data for table `contact`
 --
 
-INSERT INTO `contact` (`id`, `name`, `email`, `subject`, `message`) VALUES
-(14, 'Rokaya Al-Qassas', 'rokaya.elkasass99@gmail.com', 'hotel', 'test');
+
 
 -- --------------------------------------------------------
 
